@@ -11,7 +11,7 @@ Cybersecurity professional specializing in Threat Hunting, Detection Engineering
 * ⚡ [**detection-engineering-lab**](https://github.com/atta1339/detection-engineering-lab) — Authoring low-false-positive YARA file rules, Snort signatures, and automated Python testing harnesses.
 * 🖥️ [**host-siem-detection-lab**](https://github.com/atta1339/host-siem-detection-lab) — Endpoint telemetry with Sysmon XML, Sigma rule development, and Splunk SPL queries targeting LSASS credential dumping (`T1003.001`).
 * ☁️ [**aws-cloud-threat-hunting-lab**](https://github.com/atta1339/aws-cloud-threat-hunting-lab) — AWS CloudTrail JSON log parsing, Athena SQL hunting queries, and automated IAM privilege escalation detection (`T1098.001`).
-* * ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL queries, Entra ID impossible travel detection, and identity threat hunting.
+* ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL queries, Entra ID impossible travel detection, and identity threat hunting.
 
 ---
 
