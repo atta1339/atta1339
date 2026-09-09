@@ -14,6 +14,7 @@ Cybersecurity professional specialising in Threat Hunting, Detection Engineering
 * ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL analytics queries, Entra ID impossible travel detection (`T1078.004`), and identity threat hunting logic.
 * ⚙️ [**devsecops-terraform-scanning-lab**](https://github.com/atta1339/devsecops-terraform-scanning-lab) — Infrastructure-as-Code (IaC) static security scanning with Checkov, Terraform hardening, and automated CI/CD security gates.
 * 🏰 [**active-directory-threat-hunting-lab**](https://github.com/atta1339/active-directory-threat-hunting-lab) — Active Directory identity defense, Kerberoasting detection (`T1558.003`), Splunk SPL/KQL queries, and weak encryption parsing.
+* 🤖 [**soar-incident-response-automation**](https://github.com/atta1339/soar-incident-response-automation) — SOAR engine automating alert ingestion, threat intelligence API enrichment, and host isolation.
 ---
 
 ### 🧰 Technical Stack & Tooling
