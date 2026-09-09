@@ -1,6 +1,6 @@
 # Hi, I'm Atta 👋 | Security Operations & Threat Hunting
 
-Cybersecurity professional specializing in Threat Hunting, Detection Engineering, and Incident Response. Dual-qualified with a Master of Project Management and Certificate IV in Cybersecurity, focusing on technical operations within the public sector and enterprise environments.
+Cybersecurity professional specialising in Threat Hunting, Detection Engineering, and Incident Response. Dual-qualified with a Master of Project Management and a Certificate IV in Cybersecurity, focusing on technical operations within the public sector and enterprise environments.
 
 ---
 
@@ -11,7 +11,19 @@ Cybersecurity professional specializing in Threat Hunting, Detection Engineering
 * ⚡ [**detection-engineering-lab**](https://github.com/atta1339/detection-engineering-lab) — Authoring low-false-positive YARA file rules, Snort signatures, and automated Python testing harnesses.
 * 🖥️ [**host-siem-detection-lab**](https://github.com/atta1339/host-siem-detection-lab) — Endpoint telemetry with Sysmon XML, Sigma rule development, and Splunk SPL queries targeting LSASS credential dumping (`T1003.001`).
 * ☁️ [**aws-cloud-threat-hunting-lab**](https://github.com/atta1339/aws-cloud-threat-hunting-lab) — AWS CloudTrail JSON log parsing, Athena SQL hunting queries, and automated IAM privilege escalation detection (`T1098.001`).
-* ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL queries, Entra ID impossible travel detection, and identity threat hunting.
+* ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL analytics queries, Entra ID impossible travel detection (`T1078.004`), and identity threat hunting logic.
+
+---
+
+### 🧰 Technical Stack & Tooling
+
+* **Languages:** Python 3, KQL (Kusto Query Language), Splunk SPL, YARA, Snort/Suricata rules, SQL (Athena), Bash, PowerShell
+* **Telemetry & Tools:** Microsoft Sentinel, Sysmon, Wireshark, PyShark, Scapy, Splunk, AWS CloudTrail, Burp Suite, Git
+* **Frameworks:** MITRE ATT&CK, NIST SP 800-61, Essential 8, ISM
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/) | 📄 **Portfolio:** 6 Interactive Security Labs
 
 ---
 
