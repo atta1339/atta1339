@@ -13,7 +13,7 @@ Cybersecurity professional specialising in Threat Hunting, Detection Engineering
 * ☁️ [**aws-cloud-threat-hunting-lab**](https://github.com/atta1339/aws-cloud-threat-hunting-lab) — AWS CloudTrail JSON log parsing, Athena SQL hunting queries, and automated IAM privilege escalation detection (`T1098.001`).
 * ⚡ [**azure-sentinel-kql-lab**](https://github.com/atta1339/azure-sentinel-kql-lab) — Microsoft Sentinel KQL analytics queries, Entra ID impossible travel detection (`T1078.004`), and identity threat hunting logic.
 * ⚙️ [**devsecops-terraform-scanning-lab**](https://github.com/atta1339/devsecops-terraform-scanning-lab) — Infrastructure-as-Code (IaC) static security scanning with Checkov, Terraform hardening, and automated CI/CD security gates.
-
+* 🏰 [**active-directory-threat-hunting-lab**](https://github.com/atta1339/active-directory-threat-hunting-lab) — Active Directory identity defense, Kerberoasting detection (`T1558.003`), Splunk SPL/KQL queries, and weak encryption parsing.
 ---
 
 ### 🧰 Technical Stack & Tooling
